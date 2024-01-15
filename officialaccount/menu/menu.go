@@ -109,6 +109,7 @@ type MatchRule struct {
 	City               string `json:"city,omitempty"`
 	ClientPlatformType string `json:"client_platform_type,omitempty"`
 	Language           string `json:"language,omitempty"`
+	TagID		   string `json:"tag_id,omitempty"`
 }
 
 // NewMenu 实例
