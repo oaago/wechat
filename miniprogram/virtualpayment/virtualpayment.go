@@ -13,7 +13,7 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  *
- *   You can obtain one at https://github.com/silenceper/wechat.
+ *   You can obtain one at https://github.com/oaago/wechat.
  *
  */
 
@@ -28,7 +28,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/oaago/wechat/v2/util"
 )
 
 // SetSessionKey 设置 sessionKey

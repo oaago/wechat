@@ -13,7 +13,7 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  *
- *   You can obtain one at https://github.com/silenceper/wechat.
+ *   You can obtain one at https://github.com/oaago/wechat.
  *
  */
 
@@ -21,7 +21,7 @@
 package virtualpayment
 
 import (
-	"github.com/silenceper/wechat/v2/miniprogram/context"
+	"github.com/oaago/wechat/v2/miniprogram/context"
 )
 
 // NewVirtualPayment 实例化小程序虚拟支付 API

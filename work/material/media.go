@@ -3,7 +3,7 @@ package material
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/oaago/wechat/v2/util"
 )
 
 const (
